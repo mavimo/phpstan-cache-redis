@@ -1,0 +1,1 @@
+# phpstan-cache-redis
